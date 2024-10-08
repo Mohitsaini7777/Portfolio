@@ -1,7 +1,8 @@
+
 # My React Portfolio
 
 Welcome to my Portfolio 👋! This project showcases my skills and projects as a web developer. It is built using React, demonstrating my ability to create dynamic and responsive web applications.
-
+![image](https://github.com/user-attachments/assets/d0783b4a-f880-4901-89f5-f5d64f838c65)
 ## Table of Contents
 
 - [Features](#features)
